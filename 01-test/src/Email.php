@@ -1,7 +1,7 @@
 <?php 
 declare(strict_types=1);
 
-namespace UnitTest;
+namespace Sergei\TestOne;
 
 use InvalidArgumentException;
 

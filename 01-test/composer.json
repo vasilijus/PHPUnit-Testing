@@ -1,14 +1,14 @@
 {
-    "name": "sergejvasiljev/01-test",
+    "name": "sergei/testone",
     "autoload": {
         "psr-4": {
-            "Sergejvasiljev\\01Test\\": "src/"
+            "Sergei\\TestOne\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Sergej V",
-            "email": "vasiliokas@gmail.com"
+            "email": "sergio@mail.com"
         }
     ],
     "require-dev": {
